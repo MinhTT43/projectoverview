@@ -8,7 +8,7 @@ class Navbar extends Component {
                 <a href={"/home"}>
                     <img src={"https://png.pngtree.com/png-clipart/20190619/original/pngtree-vector-house-icon-png-image_4013530.jpg"}
                          alt={"Home Logo"}
-                         style={{maxWidth:"60px", borderRadius:"50%"}} />
+                         style={{maxWidth:"40px", borderRadius:"50%"}} />
                 </a>
                 <button className="navbar-toggler" type="button" data-toggle="collapse"
                         data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
